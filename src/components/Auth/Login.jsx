@@ -8,7 +8,6 @@ const Login = () => {
 
     }
   
-    
     return (
     <div className='flex h-screen w-screen items-center justify-center'>
        <div className='border-2 border-emerald-600 p-20'>
