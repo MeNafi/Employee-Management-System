@@ -1,7 +1,7 @@
 
 ## Tech Stack
 
-Live lin
+Live link
 
 
 
