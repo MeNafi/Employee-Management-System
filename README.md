@@ -1,8 +1,7 @@
 
 ## Tech Stack
 
-Live link :
-
+Live link 
 
 
 # React + Vite
