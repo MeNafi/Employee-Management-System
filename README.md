@@ -1,8 +1,7 @@
 
 ## Tech Stack
 
-Live link :
-
+Live lin
 
 # React + Vite
 
